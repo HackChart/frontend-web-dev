@@ -1,0 +1,18 @@
+/* Complete the challenge by writing CSS below */
+/* Set unvisited links to orange*/
+
+a:link {
+    color: orange;
+  }
+  
+  /* Make all visited links steelblue */
+  
+  a:visited {
+    color: steelblue;
+  }
+  
+  /* Make all links turn tomato on hover */
+  
+  a:hover {
+    color: tomato;
+  }
