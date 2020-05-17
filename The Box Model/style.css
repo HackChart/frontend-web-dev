@@ -1,0 +1,15 @@
+/* Complete the challenge by writing CSS below */
+
+.primary-content {
+    padding: 25px 0 95px;
+  }
+  
+  .wildlife {
+    border-top: 10px solid orange;
+    margin-top: 105px;
+  }
+  
+  .secondary-content {
+    padding: 80px 0 70px;
+    border-bottom: 2px dotted lightgrey;
+  }
